@@ -1,0 +1,13 @@
+:root {
+  --background: #ffffff;
+  --foreground: rgb(0, 0, 0);
+  --col1: #3b1c32;
+  --col2: #6a1e55;
+  --col3: #6a1e55;
+  --col4: #b93493;
+}
+
+body {
+  margin: 0;
+  background-color: var(--background);
+}
